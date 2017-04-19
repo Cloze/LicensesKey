@@ -1,0 +1,8 @@
+﻿Group: Misc
+FriendlyName: License Keys
+SystemName: Nop.Misc.Licenses
+Version: 1.0
+SupportedVersions:3.90
+Author: Andy McKenna (updated by Hezy Ziv)
+DisplayOrder: 1
+FileName: Nop.Plugin.Misc.Licenses.dll

@@ -1,0 +1,35 @@
+﻿@model Nop.Plugin.Misc.Licenses.Models.ProductKeyModel
+@using Nop.Web.Framework;
+
+<div class="panel-group">
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            Licenses
+        </div>
+        <div class="panel-body">
+            <div class="form-group">
+                <div class="col-md-3">
+                    @Html.NopLabelFor(model => model.ProductKey)
+                </div>
+                <div class="col-md-9">
+                   @Html.NopEditorFor(model => model.ProductKey)
+                <span id="licensekey-save" class="k-button">@T("Admin.Common.Save")</span>
+                <span id="licensekey-message" style="color:#009900"></span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("#licensekey-save").click(function () {
+            $("#licensekey-message").html("");
+            var model = { id: $("#Id").val(), productKey: $("#ProductKey").val() };
+            $.post("@(Url.RouteUrl("Plugin.Misc.Licenses.SaveKey"))", model, function () {
+                $("#licensekey-message").html("@T("Nop.Plugin.Misc.LicenseKey.Saved")");
+            });
+        });
+    });
+</script>

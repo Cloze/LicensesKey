@@ -1,0 +1,47 @@
+C:\Websites\Nop Plugins\nopCommerce_3.30_Source\Hz Plugins\Nop.Plugin.Misc.Licenses\obj\Debug\Nop.Plugin.Misc.Licenses.csprojResolveAssemblyReference.cache
+C:\Websites\Nop Plugins\nopCommerce_3.30_Source\Presentation\Nop.Web\Plugins\Misc.Licenses\Description.txt
+C:\Websites\Nop Plugins\nopCommerce_3.30_Source\Presentation\Nop.Web\Plugins\Misc.Licenses\logo.jpg
+C:\Websites\Nop Plugins\nopCommerce_3.30_Source\Presentation\Nop.Web\Plugins\Misc.Licenses\Nop.Plugin.Misc.Licenses.dll
+C:\Websites\Nop Plugins\nopCommerce_3.30_Source\Presentation\Nop.Web\Plugins\Misc.Licenses\Nop.Plugin.Misc.Licenses.pdb
+C:\Websites\Nop Plugins\nopCommerce_3.30_Source\Hz Plugins\Nop.Plugin.Misc.Licenses\obj\Debug\Nop.Plugin.Misc.Licenses.dll
+C:\Websites\Nop Plugins\nopCommerce_3.30_Source\Hz Plugins\Nop.Plugin.Misc.Licenses\obj\Debug\Nop.Plugin.Misc.Licenses.pdb
+C:\Websites\Nop Plugins\NopCommerce3.4_source\src\Hz Plugins\Nop.Plugin.Misc.Licenses\obj\Debug\Nop.Plugin.Misc.Licenses.csprojResolveAssemblyReference.cache
+C:\Websites\Nop Plugins\NopCommerce3.4_source\src\Hz Plugins\Nop.Plugin.Misc.Licenses\obj\Debug\Nop.Plugin.Misc.Licenses.dll
+C:\Websites\Nop Plugins\NopCommerce3.4_source\src\Hz Plugins\Nop.Plugin.Misc.Licenses\obj\Debug\Nop.Plugin.Misc.Licenses.pdb
+C:\Websites\Nop Plugins\NopCommerce3.4_source\src\Presentation\Nop.Web\Plugins\Misc.Licenses\Description.txt
+C:\Websites\Nop Plugins\NopCommerce3.4_source\src\Presentation\Nop.Web\Plugins\Misc.Licenses\logo.jpg
+C:\Websites\Nop Plugins\NopCommerce3.4_source\src\Presentation\Nop.Web\Plugins\Misc.Licenses\Nop.Plugin.Misc.Licenses.dll
+C:\Websites\Nop Plugins\NopCommerce3.4_source\src\Presentation\Nop.Web\Plugins\Misc.Licenses\Nop.Plugin.Misc.Licenses.pdb
+C:\Websites\Nop Plugins\nopCommerce_3.50_Source\Hz Plugins\Nop.Plugin.Misc.Licenses\obj\Debug\Nop.Plugin.Misc.Licenses.csprojResolveAssemblyReference.cache
+C:\Websites\Nop Plugins\nopCommerce_3.50_Source\Hz Plugins\Nop.Plugin.Misc.Licenses\obj\Debug\Nop.Plugin.Misc.Licenses.dll
+C:\Websites\Nop Plugins\nopCommerce_3.50_Source\Hz Plugins\Nop.Plugin.Misc.Licenses\obj\Debug\Nop.Plugin.Misc.Licenses.pdb
+C:\Websites\Nop Plugins\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Misc.Licenses\Description.txt
+C:\Websites\Nop Plugins\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Misc.Licenses\logo.jpg
+C:\Websites\Nop Plugins\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Misc.Licenses\Nop.Plugin.Misc.Licenses.dll
+C:\Websites\Nop Plugins\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Misc.Licenses\Nop.Plugin.Misc.Licenses.pdb
+C:\Websites\Nop Plugins\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Misc.Licenses\Views\Configure.cshtml
+C:\Websites\Nop Plugins\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Misc.Licenses\Views\EditProductKey.cshtml
+C:\Websites\Nop Plugins\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Misc.Licenses\Views\TabCaller.cshtml
+C:\Websites\Nop Plugins\nopCommerce_3.70_Source\Hz Plugins\Nop.Plugin.Misc.Licenses\obj\Debug\Nop.Plugin.Misc.Licenses.csprojResolveAssemblyReference.cache
+C:\Websites\Nop Plugins\nopCommerce_3.70_Source\Hz Plugins\Nop.Plugin.Misc.Licenses\obj\Debug\Nop.Plugin.Misc.Licenses.dll
+C:\Websites\Nop Plugins\nopCommerce_3.70_Source\Hz Plugins\Nop.Plugin.Misc.Licenses\obj\Debug\Nop.Plugin.Misc.Licenses.pdb
+C:\Websites\Nop Plugins\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Misc.Licenses\Views\Configure.cshtml
+C:\Websites\Nop Plugins\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Misc.Licenses\Views\EditProductKey.cshtml
+C:\Websites\Nop Plugins\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Misc.Licenses\Views\TabCaller.cshtml
+C:\Websites\Nop Plugins\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Misc.Licenses\Description.txt
+C:\Websites\Nop Plugins\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Misc.Licenses\logo.jpg
+C:\Websites\Nop Plugins\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Misc.Licenses\Nop.Plugin.Misc.Licenses.dll
+C:\Websites\Nop Plugins\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Misc.Licenses\Nop.Plugin.Misc.Licenses.pdb
+C:\Websites\Nop Plugins\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Misc.Licenses\web.config
+C:\Websites\Nop Plugins\nopCommerce_3.90_Source\Hz Plugins\Nop.Plugin.Misc.Licenses\obj\Debug\Nop.Plugin.Misc.Licenses.csprojResolveAssemblyReference.cache
+C:\Websites\Nop Plugins\nopCommerce_3.90_Source\Hz Plugins\Nop.Plugin.Misc.Licenses\obj\Debug\Nop.Plugin.Misc.Licenses.dll
+C:\Websites\Nop Plugins\nopCommerce_3.90_Source\Hz Plugins\Nop.Plugin.Misc.Licenses\obj\Debug\Nop.Plugin.Misc.Licenses.pdb
+C:\Websites\Nop Plugins\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Misc.Licenses\Views\Configure.cshtml
+C:\Websites\Nop Plugins\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Misc.Licenses\Views\EditProductKey.cshtml
+C:\Websites\Nop Plugins\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Misc.Licenses\Views\TabCaller.cshtml
+C:\Websites\Nop Plugins\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Misc.Licenses\web.config
+C:\Websites\Nop Plugins\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Misc.Licenses\Description.txt
+C:\Websites\Nop Plugins\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Misc.Licenses\logo.jpg
+C:\Websites\Nop Plugins\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Misc.Licenses\Nop.Plugin.Misc.Licenses.dll.config
+C:\Websites\Nop Plugins\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Misc.Licenses\Nop.Plugin.Misc.Licenses.dll
+C:\Websites\Nop Plugins\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Misc.Licenses\Nop.Plugin.Misc.Licenses.pdb

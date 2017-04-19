@@ -1,0 +1,114 @@
+﻿@{
+    Layout = "";
+}
+@model Nop.Plugin.Misc.Licenses.Models.ConfigurationModel
+@using Nop.Web.Framework;
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <div class="panel-group">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+               Licenses 
+            </div>
+            <div class="panel-body">
+                <div class="form-group">
+                    <div class="col-md-3">
+                        @Html.NopLabelFor(model => model.UrlAttributeId)
+                    </div>
+                    <div class="col-md-9">
+                        @Html.NopDropDownListFor(model => model.UrlAttributeId, Model.ProductAttributes)
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-md-3">
+                        @Html.NopLabelFor(model => model.DomainAttributeId)
+                    </div>
+                    <div class="col-md-9">
+                        @Html.NopDropDownListFor(model => model.DomainAttributeId, Model.ProductAttributes)
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-md-3">
+                        &nbsp;
+                    </div>
+                    <div class="col-md-9">
+                        <button type="submit" name="url-attribute" class="btn btn-default">
+                            <i class="fa fa-trash"></i>
+                            @T("Admin.Common.Save")
+                        </button>
+                    </div>
+                </div>               
+            </div>
+        </div>
+        <div class="panel panel-default">
+            <div class="panel-heading">
+               @T("Nop.Plugin.Misc.LicenseKey.ManuallyCreate")
+            </div>
+            <div class="panel-body">
+
+                <div class="form-group">
+                    <div class="col-md-3">
+                        @Html.NopLabelFor(model => model.LicenseType)
+                    </div>
+                    <div class="col-md-9">
+                        @Html.NopDropDownListFor(model => model.LicenseType, Model.LicenseTypes)
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-md-3">
+                        @Html.NopLabelFor(model => model.Url)
+                    </div>
+                    <div class="col-md-9">
+                        @Html.NopEditorFor(model => model.Url)
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-md-3">
+                        @Html.NopLabelFor(model => model.ProductKey)
+                    </div>
+                    <div class="col-md-9">
+                        @Html.NopEditorFor(model => model.ProductKey)
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-md-3">
+                        <button type="submit" name="create-license" class="btn btn-default">
+                            <i class="fa fa-trash"></i>
+                           @T("Admin.Common.Go")
+                        </button>
+                    </div>
+                    <div class="col-md-9">
+
+                    </div>
+                </div>  
+            </div>
+        </div>
+    </div>
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("#createLicenseKey").click(function () {
+                var model = $("#configureForm").serialize();
+                $.post("@(Url.RouteUrl("Plugin.Misc.Licenses.CreateLicenseKey"))", model, function (key) {
+                    $("#licenseKey").html(key);
+                });
+            });
+
+            $("#save").click(function () {
+                $("#message").html("");
+                var model = $("#configureForm").serialize();
+                $.post("@(Url.RouteUrl("Plugin.Misc.Licenses.Configure"))", model, function (result) {
+                    $("#message").html(result.SaveMessage);
+                    if (result.SavedSuccessfully == true) {
+                        $("#message").css('color', '#009900');
+                    }
+                    else {
+                        $("#message").css('color', '#ff0000');
+                    }
+                });
+            });
+        });
+    </script>
+}

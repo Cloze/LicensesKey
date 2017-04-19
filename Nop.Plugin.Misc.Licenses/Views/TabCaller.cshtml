@@ -1,0 +1,7 @@
+﻿@model Nop.Plugin.Misc.Licenses.Models.ProductKeyModel
+<script>
+            $(document).ready(function () {
+                var kTabs = $("#product-edit").data("kendoTabStrip");
+                kTabs.append({ text: "Test", contentUrl: "@Url.Content("~/ProductKey/test")" });
+            });
+</script>
